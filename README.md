@@ -8,7 +8,7 @@ Congratulations! After a lot of hard work in the data munging mines, you've land
 
 Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company would like you to generate a report that breaks down the game's purchasing data into meaningful insights.
 
-Final report includes each of the following:
+Final report is a python script created to display each of the following:
 
 ### Player Count
 
@@ -21,12 +21,14 @@ Final report includes each of the following:
 * Average Purchase Price
 * Total Number of Purchases
 * Total Revenue
+![PurchaseAnalysisTotal](Images/PurchaseAnalysisTotal.png)
 
 ### Gender Demographics
 
 * Percentage and Count of Male Players
 * Percentage and Count of Female Players
 * Percentage and Count of Other / Non-Disclosed
+![GenderDemographics](Images/GenderDemographics.png)
 
 ### Purchasing Analysis (Gender)
 
@@ -35,6 +37,7 @@ Final report includes each of the following:
   * Average Purchase Price
   * Total Purchase Value
   * Average Purchase Total per Person by Gender
+![PurchasingAnalysisGender](Images/PurchasingAnalysisGender.png)
 
 ### Age Demographics
 
@@ -43,6 +46,7 @@ Final report includes each of the following:
   * Average Purchase Price
   * Total Purchase Value
   * Average Purchase Total per Person by Age Group
+![AgeDemographics](Images/AgeDemographics.png)
 
 ### Top Spenders
 
@@ -51,6 +55,7 @@ Final report includes each of the following:
   * Purchase Count
   * Average Purchase Price
   * Total Purchase Value
+![TopSpenders](Images/TopSpenders.png)
 
 ### Most Popular Items
 
@@ -60,6 +65,7 @@ Final report includes each of the following:
   * Purchase Count
   * Item Price
   * Total Purchase Value
+![MostPopularItems](Images/MostPopularItems.png)
 
 ### Most Profitable Items
 
@@ -69,3 +75,4 @@ Final report includes each of the following:
   * Purchase Count
   * Item Price
   * Total Purchase Value
+![MostProfitableItems](Images/MostProfitableItems.png)
